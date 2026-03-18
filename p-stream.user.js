@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         P-Stream Userscript
-// @namespace    https://pstream.mov/
+// @namespace    https://pstream.net/
 // @version      1.0.3
 // @description  Userscript replacement for the P-Stream extension
-// @author       Duplicake, P-Stream Team
+// @author       Duplicake, P-Stream Team, XP Technologies
 // @icon         https://raw.githubusercontent.com/p-stream/p-stream/production/public/mstile-150x150.jpeg
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
