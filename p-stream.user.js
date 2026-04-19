@@ -4,14 +4,14 @@
 // @version      1.0.3
 // @description  Userscript replacement for the P-Stream extension
 // @author       Duplicake, P-Stream Team, XP Technologies
-// @icon         https://raw.githubusercontent.com/p-stream/p-stream/production/public/mstile-150x150.jpeg
+// @icon         https://raw.githubusercontent.com/p-stream/xp-technologies-dev/Userscript/main/image.png
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
 // @run-at       document-start
 // @connect      *
-// @updateURL    https://raw.githubusercontent.com/p-stream/Userscript/main/p-stream.user.js
-// @downloadURL  https://raw.githubusercontent.com/p-stream/Userscript/main/p-stream.user.js
+// @updateURL    https://raw.githubusercontent.com/xp-technologies-dev/Userscript/main/p-stream.user.js
+// @downloadURL  https://raw.githubusercontent.com/xp-technologies-dev/Userscript/main/p-stream.user.js
 // ==/UserScript==
 
 (function () {
