@@ -5,6 +5,7 @@
 // @description  Userscript replacement for the P-Stream extension
 // @author       Duplicake, P-Stream Team, XP Technologies
 // @icon         https://raw.githubusercontent.com/xp-technologies-dev/Userscript/main/150x150.jpg
+// @icon         https://raw.githubusercontent.com/p-stream/xp-technologies-dev/Userscript/main/image.png
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
